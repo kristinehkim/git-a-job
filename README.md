@@ -1,6 +1,6 @@
 # Git a Job
 > An application that web developers can use to post about anything related to their job search and comment on posts giving specific feedback to each individual’s need.
-> Live demo [_here_](https://murmuring-sierra-21351-123e19ae1f23.herokuapp.com/login). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://lit-dawn-72869-0437fa1dd280.herokuapp.com/login). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
